@@ -1,0 +1,7 @@
+.env
+*.db
+notifications.log
+__pycache__/
+.venv/
+venv/
+seed.json
